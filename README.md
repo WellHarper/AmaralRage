@@ -1,9 +1,9 @@
 ### Olá! Eu sou Lucas Amaral
 
  <div>
-  <a href="https://github.com/Amaral_Rage">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=amaralrage&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amaralRage&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/AmaralRage">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AmaralRage&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmaralRage&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Amaral-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
