@@ -10,7 +10,7 @@
   <img align="center" alt="Amaral-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Amaral-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Amaral-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img height="300" width="500" align="right" alt="Rafa-yoda" src="https://thumbs.gfycat.com/HonestDeficientKarakul-size_restricted.gif">
+  <img height="270" width="270" align="right" alt="Rafa-yoda" src="https://www.wykop.pl/cdn/c3201142/comment_qSBMQ9gztnOAyEpaFN0qZftRTDIH5rvK.gif">
 </div>
   
   ##
